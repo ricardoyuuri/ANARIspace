@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@1,100&display=swap');
+
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: 'Montserrat';
+    font-size: xx-large;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: o;
+    padding: o;
+    overflow: hidden;
+    background-color: purple;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+}
+
+.galaxy {
+    display: block;
+    border: 10px solid white;
+    margin: 0px auto;
+    height: 500px;
+    width: 1400px;
+    border-radius: 20px;
+
+}
+
+.anari {
+    color: white;
+    overflow: hidden;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    width: center;
+    width: 100%;
+}
+
+.product {
+    width: 300px;
+    border: 1px solid #dddddd;
+    margin: 10px;
+    padding: 20px;
+    float: left;
+    margin-bottom: 100px;
+}
+
+.product .image {
+    border: 1px solid #999;
+    margin: 5px 0 15px;
+    height: 160px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.product img {
+    max-width: 100%;
+    margin: 5px 5px 15px;
+}
+
+.product h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+}
+
+.saturn {
+    margin-bottom: 200px;
+}
+
+.product p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.product button {
+    background-color: black;
+    border: 1px solid: black;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.second-text {
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   margin-bottom: 50px;
+   width: center;
+   width: 100%;
+   text-align: left;
+}
+
